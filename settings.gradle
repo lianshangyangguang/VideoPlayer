@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 rootProject.name = "VideoPlayer"
 include ':app'
 //视频播放器
+
 include ':VideoPlayer'
